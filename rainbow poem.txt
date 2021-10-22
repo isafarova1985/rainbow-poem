@@ -4,4 +4,5 @@ Blue
 green
 pink
 Yellow
+Red
 Are rainbow colors
